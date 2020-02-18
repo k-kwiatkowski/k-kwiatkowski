@@ -1,1 +1,0 @@
-unfortunately the folium maps do not seem to render on GitHub natively. To see full dynamic output go to this link: https://nbviewer.jupyter.org/github/k-kwiatkowski/portfolio/blob/master/San%20Francisco%20Bike%20Share.ipynb
